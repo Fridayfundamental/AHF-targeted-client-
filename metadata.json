@@ -1,0 +1,6 @@
+{
+  "name": "AHF Zambia Digital Bridge",
+  "description": "An integrated clinical supply tracker, field data hub, and anonymous community support board for AHF Zambia medical teams, mobile clinics, and patients.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
